@@ -165,6 +165,8 @@
 
   body {
     @apply bg-background text-foreground;
+    background-color: var(--color-background) !important;
+    color: var(--color-foreground) !important;
   }
 
   /**
