@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Link } from 'react-router';
+import { Link } from 'react-router-dom';
 import { Shield, Megaphone, Eye, ArrowRight, CheckCircle, Users, Globe, ChevronDown } from 'lucide-react';
 import { useLanguage } from '../context/LanguageContext';
 import govLogo from '../../assets/images/government-of-india.jpg';
