@@ -2,7 +2,8 @@
 
   # Citizen-Politician Communication App
 
-  This is a code bundle for Citizen-Politician Communication App. The original project is available at https://www.figma.com/design/E3LQdvhbHq40JzkJTFyMjI/Citizen-Politician-Communication-App.
+  This is a code bundle for Citizen-Politician Communication App. The original project is available at https://www.figma.com/design/eNJ8suYklagFCMFaDk1rbZ/CITIZENCONNECT?node-id=0-1&t=7OYM97WUd11dbnFg-1
+
 
   ## Running the code
 
